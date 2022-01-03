@@ -21,8 +21,8 @@ In order to compile the following Project, it was need to complete the following
 1.- Initialize:
 
 	1.a A class called <MovieNode> that allows to Link multiple Nodes that store a single Movie for each Node.
-  This class contains 2 attributes/variables : One Movie that is used to store the data, and a pointer that is used
-  to link with other Nodes or point to NULL if it's the last one in the List.
+  	This class contains 2 attributes/variables : One Movie that is used to store the data, and a pointer that is used
+ 	to link with other Nodes or point to NULL if it's the last one in the List.
 
 	1.b A class called <MovieCollection> that primarily works with a Movie Node (head) and links with other Movies if necessary.
 	Therefore, anytime a new Movie Node is added it'll resize its List and the amount of movies stored in the Collection.
