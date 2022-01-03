@@ -16,8 +16,8 @@ Description: This program utilizes a Linked List inside of a "MovieCollection" o
  - Print the amount of movies found in the collection (.size())  
  - Printing the rating from one specific movie in a MovieCollection 
 
-EXECUTION:
-Use the Makefile to compile the program and get an executable, run the executable and read the output. The program is written 
+**EXECUTION:**
+Use the Makefile to compile the program and get an executable, run the executable and read the output. The program is written in the test.cpp file and changes can be made to change the collections being printed. 
 
 In order to compile the following Project, it was need to complete the following sequence of steps:
 
