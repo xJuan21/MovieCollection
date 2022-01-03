@@ -5,16 +5,16 @@ Platform used: Linux.
 
 Description: This program utilizes a Linked List inside of a "MovieCollection" object that will serve to store "Movie" Objects and print them if necessary. The purpose of this project was to enhance the knowledge about Data Structures and overloading operators with methods to interact with other objects in the program. the MovieCollection object has the capacity of executing the following actions with its assigned operators:
 
- -Adding more movies to the collection (+=)
- -Merging two movie collections together (NewCollection = Collection1 + Collection2) 
- -Deleting movie(s) from the collection (-=) 
- -Remove all the movies that match with another collection (Collection1 - Collection2) 
- -Duplicating on MovieCollection (NewCollection = OldCollection) 
- -Clearing out an entire Collection Object (Collection.Clear())  
- -Creating a new Collection by extracting Movies from a .txt file 
- -Find all the movies that intersect/match between to Collections (Collection1/Collection2)
- -Print the amount of movies found in the collection (.size())  
- -Printing the rating from one specific movie in a MovieCollection 
+ - Adding more movies to the collection (+=)
+ - Merging two movie collections together (NewCollection = Collection1 + Collection2) 
+ - Deleting movie(s) from the collection (-=) 
+ - Remove all the movies that match with another collection (Collection1 - Collection2) 
+ - Duplicating on MovieCollection (NewCollection = OldCollection) 
+ - Clearing out an entire Collection Object (Collection.Clear())  
+ - Creating a new Collection by extracting Movies from a .txt file 
+ - Find all the movies that intersect/match between to Collections (Collection1/Collection2)
+ - Print the amount of movies found in the collection (.size())  
+ - Printing the rating from one specific movie in a MovieCollection 
 
 In order to compile the following Project, it was need to complete the following sequence of steps:
 
