@@ -3,7 +3,7 @@ Author: Juan Mota
 11/16/2020.
 Platform used: Linux.
 
-Description: This program utilizes a Linked List inside of a "MovieCollection" object that will serve to store "Movie" Objects and print them if necessary. The purpose of this project was to enhance the knowledge about Data Structures and overloading operators with methods to interact with other objects in the program. the MovieCollection object has the capacity of executing the following actions with its assigned operators:
+Description: This program utilizes a Linked List inside of a "MovieCollection" object that will serve to store "Movie" Objects and print them if necessary. The purpose of this project was to enhance the knowledge about Data Structures and overloading operators with methods to interact with other objects in the program. the MovieCollection object has the capacity of executing the following actions with their assigned operators:
 
  - Adding more movies to the collection (+=)
  - Merging two movie collections together (NewCollection = Collection1 + Collection2) 
@@ -15,6 +15,9 @@ Description: This program utilizes a Linked List inside of a "MovieCollection" o
  - Find all the movies that intersect/match between to Collections (Collection1/Collection2)
  - Print the amount of movies found in the collection (.size())  
  - Printing the rating from one specific movie in a MovieCollection 
+
+EXECUTION:
+Use the Makefile to compile the program and get an executable, run the executable and read the output. The program is written 
 
 In order to compile the following Project, it was need to complete the following sequence of steps:
 
